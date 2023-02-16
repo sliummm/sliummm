@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @sliummm
 - 👀 I’m interested in money
-- 🌱 I’m currently learning React and Android development
+- 🌱 I’m currently learning Modern JS frameworks
+-  React, Angular
+-  Node.JS/Express
 - 📫 How to reach me shul.max9303@gmail.com
 
 <!---
